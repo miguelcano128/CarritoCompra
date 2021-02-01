@@ -1,0 +1,19 @@
+.formularioLogin {text-align: center}
+.formularioLogin form {width: 38%; margin:auto;padding: 20px;border-radius: 5px;clear: both}
+input[type=text],input[type=password] {margin: 12px;}
+a .inisess{color: #FFF}
+.formacc, #formregistro, #formaccsp {color: #FFF !important;}
+.bg-dark {padding: 7px !important;}
+.dropdown {right: 50px;}
+.tablaacceso {text-align: center;padding: 12px;margin: auto !important;}
+#tablaAcceso tr th, #tablaAcceso tr td{padding: 5px;}
+.form-inline { position: relative;right: 5% !important}
+.formularioAcceso {margin: auto !important;margin-top: 150px !important;}
+.tablaproductos, #tblData {
+    margin: auto !important;
+    text-align: center !important;
+}
+.tablausuarios,.tablaupdate {
+    text-align: center !important;
+}
+
