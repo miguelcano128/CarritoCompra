@@ -10,6 +10,7 @@
 <!DOCTYPE html>
 <html>
    <%@include file="header.jsp"%>
+ <h1>HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</h1>
         <div class="container mt.2">
             <div class="row">
                 <c:forEach var="p" items="${productos}">
